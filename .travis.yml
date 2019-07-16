@@ -25,3 +25,5 @@ matrix:
       env: DJANGO_VERSION=2.0.2
     - python: 3.6
       env: DJANGO_VERSION=2.1.4
+    - python: 3.6
+      env: DJANGO_VERSION=2.2.0
