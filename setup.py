@@ -52,7 +52,7 @@ setup(
     zip_safe=False,
     include_package_data=True,
     install_requires=[
-        'Django >= 1.8, <= 2.2a0',
+        'Django >= 1.8, <= 2.2.3',
         'python3-saml >= 1.4.0',
     ],
     tests_require=[
